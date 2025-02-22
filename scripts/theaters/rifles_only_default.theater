@@ -1930,9 +1930,8 @@
 				//"weapon"				"weapon_mp40"
 				//"weapon"				"weapon_p38"
 				//"weapon"				"weapon_ppk"
-				"weapon"				"weapon_tnt"
 				//"weapon"				"weapon_panzerfaust"
-				//"weapon"				"weapon_sprengbuchse"
+				"weapon"				"weapon_sprengbuchse"
 				//"weapon"         		"weapon_panzerschreck"
 				//"weapon"				"weapon_flamethrower_eintoss46_german"						
 				//"weapon_upgrade"		"default_sling"
@@ -1945,15 +1944,14 @@
 			{
 				"weapon"
 				{
+					"weapon_sprengbuchse"	"12"
 					"weapon_k98"			"25"
 					"weapon_k98"			"25"
-					"weapon_tnt"			"12"
 					"weapon_mp40"			"25"
 					"weapon_p38" 			"25"
 					"weapon_ppk" 			"25"
 					"weapon_splintering"	"25"
 					"weapon_panzerfaust"	"25"
-					"weapon_sprengbuchse"	"25"
 					"weapon_panzerschreck"	"25"
 					"weapon_flamethrower_eintoss46_german" "25"
 				}
@@ -1964,7 +1962,7 @@
 					"magazine_stripper_clips"	"1"
 					"default_bayonet"			"2"
 					"magazine_extended_c96"		"3"
-					"barrel_greased_bolt"			"2"
+					"barrel_greased_bolt"		"2"
 				}
 				
 				"gear"
