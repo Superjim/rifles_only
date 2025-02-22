@@ -50,8 +50,8 @@
 							
 							"template_german_engineer"
 							{
-								"min"			"0"
-								"max"			"0"
+								"min"			"1"
+								"max"			"1"
 								"max_threshold" "20"
 							}
 							
@@ -117,8 +117,8 @@
 							
 							"template_german_engineer"
 							{
-								"min"			"0"
-								"max"			"0"
+								"min"			"1"
+								"max"			"1"
 								"max_threshold" "20"
 							}
 							
@@ -187,8 +187,8 @@
 							
 							"template_american_engineer"
 							{
-								"min"			"0"
-								"max"			"0"
+								"min"			"1"
+								"max"			"1"
 								"max_threshold" "20"
 							}
 							
@@ -254,8 +254,8 @@
 							
 							"template_american_engineer"
 							{
-								"min"			"0"
-								"max"			"0"
+								"min"			"1"
+								"max"			"1"
 								"max_threshold" "20"
 							}
 							
@@ -324,8 +324,8 @@
 							
 							"template_british_engineer"
 							{
-								"min"			"0"
-								"max"			"0"
+								"min"			"1"
+								"max"			"1"
 								"max_threshold" "20"
 							}
 							
@@ -391,8 +391,8 @@
 							
 							"template_british_engineer"
 							{
-								"min"			"0"
-								"max"			"0"
+								"min"			"1"
+								"max"			"1"
 								"max_threshold" "20"
 							}
 							
