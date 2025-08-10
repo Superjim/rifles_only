@@ -155,9 +155,9 @@
 	{		
 		"template_american_officer"
 		{
-			"print_name"				"#class_american_officer"
-			"print_attribute"			"#class_officer_attribute"
-			"print_description"			"#class_officer_description"
+			"print_name"				"Welrod Pistol"
+			"print_attribute"			"No air support available"
+			"print_description"			"This class has teh welrod, smoke and frag grenades"
 			"response_rules_key"		"american01"
 			"squad_leader"				"1"
 			"icon"						"officer_americans"
@@ -224,9 +224,9 @@
 			
 		"template_british_officer"
 		{
-			"print_name"				"#class_british_officer"
-			"print_attribute"			"#class_officer_attribute"
-			"print_description"			"#class_officer_description"
+			"print_name"				"Welrod Pistol"
+			"print_attribute"			"No air support available"
+			"print_description"			"This class has teh welrod, smoke and frag grenades"
 			"response_rules_key"		"english"
 			"squad_leader"				"1"
 			"icon"						"officer_commonwealth"
@@ -295,9 +295,9 @@
 			
 		"template_german_officer"
 		{
-			"print_name"			"#class_german_officer"
-			"print_attribute"		"#class_officer_attribute"
-			"print_description"		"#class_officer_description"
+			"print_name"				"Welrod Pistol"
+			"print_attribute"			"No air support available"
+			"print_description"			"This class has teh welrod, smoke and frag grenades"
 			"response_rules_key"	"german01"
 			"squad_leader"			"1"
 			"icon"					"officer_germans"
@@ -1742,9 +1742,9 @@
 		
 		"template_american_engineer"
 		{
-			"print_name"				"#class_american_engineer"
-			"print_attribute"			"#class_engineer_attribute"
-			"print_description"			"#class_engineer_description"
+			"print_name"				"WARNING"
+			"print_attribute"			"You must have 11 points"
+			"print_description"			"This class only has tnt and knife, TNT costs 11 supply"
 			"response_rules_key"		"american01"
 			"icon"						"engineer"
 			
@@ -1821,9 +1821,9 @@
 		
 		"template_british_engineer"
 		{
-			"print_name"				"#class_british_engineer"
-			"print_attribute"			"#class_engineer_attribute"
-			"print_description"			"#class_engineer_description"
+			"print_name"				"WARNING"
+			"print_attribute"			"You must have 11 points"
+			"print_description"			"This class only has tnt and knife, TNT costs 11 supply"
 			"response_rules_key"		"english"
 			"icon"						"engineer"
 			
@@ -1898,9 +1898,9 @@
 		
 		"template_german_engineer"
 		{
-			"print_name"				"#class_german_engineer"
-			"print_attribute"			"#class_engineer_attribute"
-			"print_description"			"#class_engineer_description"
+			"print_name"				"WARNING"
+			"print_attribute"			"You must have 11 points"
+			"print_description"			"This class only has tnt and knife, TNT costs 11 supply"
 			"response_rules_key"		"german01"
 			"icon"						"engineer"
 			
